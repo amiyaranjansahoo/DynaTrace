@@ -14,7 +14,7 @@ its user base from unauthorized access from the outside
 1. OneAgent
 2. PurePath
 3. GrailDB
-4. AutomationEngine
+4. DavisAI
 ```
 ### OneAgent
 ```sh
@@ -54,11 +54,8 @@ its user base from unauthorized access from the outside
 5. schema on read:
 6. Indexless
 ```
-### AutomationEngine
+### DavisAI
 ```sh
-1. The Automation Engine in Dynatrace is like a smart helper that automatically handles routine
-   tasks and fixes problems without needing someone to do it manually.
-2. Automation Engine lets you schedule different reports in line with holidays and work hours.
-3. It also lets you orchestrate IT processes such as automated metric collection or specific logs,
-   processing and combining them into a form of interactive dashboards.
+1. Davis AI in Dynatrace is like a smart assistant for monitoring your IT systems. It uses artificial intelligence to automatically analyze data from your entire environment—applications, infrastructure, and services—and identifies issues, their root causes, and impacts.
+2. Instead of just giving you a flood of alerts, Davis AI tells you exactly what’s wrong, why it happened, and how to fix it, helping you resolve problems faster and keep systems running smoothly.
 ```
