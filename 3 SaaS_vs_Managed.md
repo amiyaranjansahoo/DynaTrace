@@ -26,9 +26,12 @@ monitoring, and therefore they are certified to store and process data.
 ## Managed:
 ```sh
 	On-premises deployment
-	Data stored at my data centre however the update/patching of the DT component will be done by DT team  by connecting over internet based on the access what we provides.
+	Data stored at my data centre however the update/patching of the DT component will be done by DT team  by connecting over
+ internet based on the access what we provides.
 	Its best for financial sector and biological sector where we keep the customer information
-	Dynatrace managed, as its name suggests, is a deployment of Dynatrace platform that takes place on-premise or on your servers and clusters.
-	So basically infrastructure or hardware that you provision physically and you are responsible for maintainingit and making sure that things run as they are supposed to.
+	Dynatrace managed, as its name suggests, is a deployment of Dynatrace platform that takes place on-premise or on your
+servers and clusters.
+	So basically infrastructure or hardware that you provision physically and you are responsible for maintainingit and making
+sure that things run as they are supposed to.
 ```
 
